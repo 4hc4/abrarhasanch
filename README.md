@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Next JS**
 
-- 📫 How to reach me **mushfiq.official@gmail.com**
+- 📫 How to reach me **abrar@chowdhury.bd**
 
 - 👨‍💻 All of my projects are available at **[https://sites.google.com/s.diu.edu.bd/abrarhasanch/home](https://sites.google.com/s.diu.edu.bd/abrarhasanch/home)**
 
