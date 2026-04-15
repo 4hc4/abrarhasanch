@@ -8,9 +8,7 @@
 
 - 📫 How to reach me **abrar@chowdhury.bd**
 
-- 👨‍💻 All of my projects are available at **[https://sites.google.com/s.diu.edu.bd/abrarhasanch/home](https://sites.google.com/s.diu.edu.bd/abrarhasanch/home)**
-
-- 📝 I regularly write articles on **[https://abrarhasanch.bio.link/](https://abrarhasanch.bio.link/)**
+- 👨‍💻 All of my projects are available at **[https://chowdhury.bd](https://chowdhury.bd)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1ulI8eehfvwonvdmrVGgP_hbZ9LdRDt9L/view?usp=sharing](https://drive.google.com/file/d/1ulI8eehfvwonvdmrVGgP_hbZ9LdRDt9L/view?usp=sharing)**
 
