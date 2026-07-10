@@ -19,6 +19,10 @@
   <a href="mailto:abrar@chowdhury.bd"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abrarhasanch&theme=tokyonight&hide_border=true&show_icons=true" alt="Codeforces stats" />
+</p>
+
 ---
 
 ### 🧠 Who I Am
@@ -75,6 +79,11 @@ I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daf
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhasanch&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- ====== TROPHIES ====== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abrarhasanch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 <!-- ====== ANIMATED CONTRIBUTION GRAPH ====== -->
