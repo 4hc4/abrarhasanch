@@ -19,10 +19,6 @@
   <a href="mailto:abrar@chowdhury.bd"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abrarhasanch&theme=tokyonight&hide_border=true&show_icons=true" alt="Codeforces stats" />
-</p>
-
 ---
 
 ### 🧠 Who I Am
