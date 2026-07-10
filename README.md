@@ -1,13 +1,9 @@
 <!-- ====== ANIMATED WAVE HEADER ====== -->
-<a href="https://chowdhury.bd">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:00cec9&height=200&section=header&text=Abrar%20Hasan%20Chowdhury&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58" alt="header"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:00cec9&height=200&section=header&text=Abrar%20Hasan%20Chowdhury&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58" alt="header"/>
 
 <!-- ====== ANIMATED TYPING SUBTITLE ====== -->
 <p align="center">
-  <a href="https://chowdhury.bd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=I+turn+real+business+problems+into+software.;Full-stack+builder+%E2%80%94+backend+to+UI+to+ship.;SaaS+products.+Clean+APIs.+Real+users.;CSE+%40+Daffodil+International+University+%F0%9F%87%A7%F0%9F%87%A9;36%2B+repos+and+counting..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=I+turn+real+business+problems+into+software.;Full-stack+builder+%E2%80%94+backend+to+UI+to+ship.;SaaS+products.+Clean+APIs.+Real+users.;CSE+%40+Daffodil+International+University+%F0%9F%87%A7%F0%9F%87%A9;36%2B+repos+and+counting..." alt="Typing SVG" />
 </p>
 
 <!-- ====== SOCIAL BADGES ====== -->
@@ -69,8 +65,8 @@ I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daf
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abrarhasanch&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhasanch&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abrarhasanch&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhasanch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
