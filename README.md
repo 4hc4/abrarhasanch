@@ -1,12 +1,12 @@
 <!-- ====== ANIMATED WAVE HEADER ====== -->
 <a href="https://chowdhury.bd">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:00cec9&height=200&section=header&text=Abrar%20Hasan%20Chowdhury&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Product%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:00cec9&height=200&section=header&text=Abrar%20Hasan%20Chowdhury&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58" alt="header"/>
 </a>
 
 <!-- ====== ANIMATED TYPING SUBTITLE ====== -->
 <p align="center">
   <a href="https://chowdhury.bd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=I+turn+real+business+problems+into+software.;Backend+systems.+SaaS+products.+Clean+APIs.;CSE+%40+Daffodil+International+University+%F0%9F%87%A7%F0%9F%87%A9;36%2B+repos+and+counting..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=I+turn+real+business+problems+into+software.;Full-stack+builder+%E2%80%94+backend+to+UI+to+ship.;SaaS+products.+Clean+APIs.+Real+users.;CSE+%40+Daffodil+International+University+%F0%9F%87%A7%F0%9F%87%A9;36%2B+repos+and+counting..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,10 +23,10 @@
 
 ### 🧠 Who I Am
 
-I'm a backend developer from **Dhaka, Bangladesh**, studying CSE at **Daffodil International University** — where I sit at the intersection of **technology and business**. I don't just write code; I ship products that solve actual problems: order management, fraud detection, fintech, and SaaS tooling.
+I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daffodil International University** — where I sit at the intersection of **technology and business**. Backend is my home turf, but I build the whole thing: APIs, databases, and the UI users actually touch. I don't just write code; I ship products that solve real problems — order management, fraud detection, fintech, and SaaS tooling.
 
 - 🔭 **Right now:** building multi-tenant SaaS — order management, storefronts, and fraud-detection platforms
-- ⚙️ **My lane:** backend architecture, APIs, auth & security, databases, clean system design
+- ⚙️ **End to end:** backend architecture & APIs, auth & security, databases, plus React/Next.js frontends
 - 🧩 **What drives me:** taking a messy real-world workflow and turning it into reliable software
 - 🏆 **For fun:** sharpening fundamentals with competitive programming on Codeforces
 - 📫 **Reach me:** [abrar@chowdhury.bd](mailto:abrar@chowdhury.bd) · [chowdhury.bd](https://chowdhury.bd)
