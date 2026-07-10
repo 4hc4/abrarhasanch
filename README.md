@@ -19,9 +19,9 @@
   <a href="mailto:abrar@chowdhury.bd"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/abrarhasanch/abrarhasanch@main/assets/divider.svg" width="100%"></p>
 
-### 🧠 Who I Am
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Who I Am
 
 I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daffodil International University** — where I sit at the intersection of **technology and business**. Backend is my home turf, but I build the whole thing: APIs, databases, and the UI users actually touch. I don't just write code; I ship products that solve real problems — order management, fraud detection, fintech, and SaaS tooling.
 
@@ -31,7 +31,7 @@ I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daf
 - 🏆 **For fun:** sharpening fundamentals with competitive programming on Codeforces
 - 📫 **Reach me:** [abrar@chowdhury.bd](mailto:abrar@chowdhury.bd) · [chowdhury.bd](https://chowdhury.bd)
 
----
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/abrarhasanch/abrarhasanch@main/assets/divider.svg" width="100%"></p>
 
 ### 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@ I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daf
   <sub><b>Backend</b> Laravel · FastAPI · Django · Express &nbsp;|&nbsp; <b>Frontend</b> Next.js · React · Vue · Tailwind &nbsp;|&nbsp; <b>Data/ML</b> Python · Pandas · TensorFlow &nbsp;|&nbsp; <b>Infra</b> Docker · AWS · Postgres</sub>
 </p>
 
----
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/abrarhasanch/abrarhasanch@main/assets/divider.svg" width="100%"></p>
 
 ### 🚀 What I'm Building
 
@@ -64,7 +64,7 @@ I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daf
 | 🟢 [**mini-shell-c**](https://github.com/abrarhasanch/mini-shell-c) | A minimal Unix shell written from scratch | `C` |
 | 🟢 [**bangla-news-classification**](https://github.com/abrarhasanch/bangla-news-classification) | NLP classifier for Bangla news | `Jupyter` |
 
----
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/abrarhasanch/abrarhasanch@main/assets/divider.svg" width="100%"></p>
 
 ### 📊 GitHub Analytics
 
@@ -87,12 +87,17 @@ I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daf
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abrarhasanch&theme=tokyo-night&hide_border=true&area=true&color=6c5ce7&line=00cec9&point=ffffff" />
 </p>
 
+<!-- ====== 3D CONTRIBUTION CALENDAR (needs the 3d-contrib action) ====== -->
+<p align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/abrarhasanch/abrarhasanch/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+</p>
+
 <!-- ====== ANIMATED SNAKE (needs the action below) ====== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abrarhasanch/abrarhasanch/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/abrarhasanch/abrarhasanch@main/assets/divider.svg" width="100%"></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abrarhasanch&label=Profile%20views&color=6c5ce7&style=flat" />
