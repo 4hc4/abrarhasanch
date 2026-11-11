@@ -60,7 +60,7 @@ I'm a **full-stack developer** from **Dhaka, Bangladesh**, studying CSE at **Daf
 | 🟢 [**mini-shell-c**](https://github.com/abrarhasanch/mini-shell-c) | A minimal Unix shell written from scratch | `C` |
 | 🟢 [**bangla-news-classification**](https://github.com/abrarhasanch/bangla-news-classification) | NLP classifier for Bangla news | `Jupyter` |
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/abrarhasanch/abrarhasanch@main/assets/divider.svg" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/4hc4/4hc4@main/assets/divider.svg" width="100%"></p>
 
 ### 📊 GitHub Analytics
 
